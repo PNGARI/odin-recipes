@@ -1,2 +1,2 @@
 # odin-recipes
-This website will be about marieck investments, a management consulting company.
+This website will be about Beef Chilli recipe, yummy.
